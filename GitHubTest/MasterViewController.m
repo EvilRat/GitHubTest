@@ -21,6 +21,7 @@
 {
     self.clearsSelectionOnViewWillAppear = NO;
     self.contentSizeForViewInPopover = CGSizeMake(320.0, 600.0);
+    // dies ist ein Test
     [super awakeFromNib];
 }
 
